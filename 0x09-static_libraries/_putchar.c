@@ -3,7 +3,7 @@
 /**
 * _putchar - the function
 * @c: input character
-* Return: no return value
+* Return: no value
 */
 
 int _putchar(char c)

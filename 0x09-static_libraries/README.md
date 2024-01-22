@@ -1,1 +1,1 @@
-how to create static libraries in C
+this directory is for static library

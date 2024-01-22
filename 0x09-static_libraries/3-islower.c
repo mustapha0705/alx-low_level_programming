@@ -1,12 +1,12 @@
 #include "main.h"
 
 /**
-* _isupper - the function
+* _islower - the function
 * @c: input integer
 * Return: no value
 */
 
-int _isupper(int c)
+int _islower(int c)
 {
 
 }
